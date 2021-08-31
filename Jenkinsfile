@@ -3,8 +3,8 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
-                        echo 'Hi, this is Nihal'
-                        echo 'We are Starting the Build'
+                        echo 'Hi, this is Saindhav Nihal'
+                        echo 'Build will be started soon'
                   }
             }
             stage('Build') {
